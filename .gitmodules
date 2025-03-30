@@ -1,0 +1,3 @@
+[submodule "Quadcopter_SimCon"]
+	path = Quadcopter_SimCon
+	url = https://github.com/bobzwik/Quadcopter_SimCon.git
